@@ -9,3 +9,5 @@ Steps
     * if error then try opening  **Anaconda Prompt**. Search on your Apps, should be installed already with Anaconda
 * To run the application you can use `streamlit run app.py`
   
+
+![UFC prediction mockup.png](UFC%20prediction%20mockup.png)
