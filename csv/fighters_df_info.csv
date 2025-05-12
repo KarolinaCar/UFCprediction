@@ -1,0 +1,192 @@
+Name,Id,Ranking,Gender,Category,Year_Ranking,Week_ranking,Country,Brith_Code,DOB,Reach,Height,Weight,Nickname,Wins,Draws,Losses
+"Makhachev, Islam",sr:competitor:251835,1,male,pound_for_pound,2025,19,RUSSIAN FEDERATION,RUS,1991-09-27,179.0,178.0,70.3,,27.0,0.0,2.0
+"Jones, Jon",sr:competitor:253371,2,male,pound_for_pound,2025,19,UNITED STATES,USA,1987-07-19,215.0,194.0,112.5,Bones,28.0,0.0,1.0
+"Topuria, Ilia",sr:competitor:750503,3,male,pound_for_pound,2025,19,GERMANY,DEU,1997-01-21,175.0,170.0,65.5,El Matador,16.0,0.0,0.0
+"Dvalishvili, Merab",sr:competitor:399183,4,male,pound_for_pound,2025,19,GEORGIA,GEO,1991-01-10,173.0,168.0,60.8,The Machine,18.0,0.0,4.0
+"Du Plessis, Dricus",sr:competitor:400461,5,male,pound_for_pound,2025,19,,,1994-01-14,193.0,185.0,83.9,Stillknocks,23.0,0.0,2.0
+"Ankalaev, Magomed",sr:competitor:419867,6,male,pound_for_pound,2025,19,RUSSIAN FEDERATION,RUS,1992-06-02,191.0,191.0,93.0,,21.0,1.0,1.0
+"Muhammad, Belal",sr:competitor:267867,7,male,pound_for_pound,2025,19,UNITED STATES,USA,1988-07-09,183.0,180.0,77.1,Remember The Name,24.0,0.0,4.0
+"Pereira, Alex",sr:competitor:837536,8,male,pound_for_pound,2025,19,BRAZIL,BRA,1987-07-07,203.0,194.0,93.0,Poatan,12.0,0.0,3.0
+"Volkanovski, Alex",sr:competitor:290262,9,male,pound_for_pound,2025,19,AUSTRALIA,AUS,1988-09-29,182.0,168.0,65.8,The Great,27.0,0.0,4.0
+"Pantoja, Alexandre",sr:competitor:312032,10,male,pound_for_pound,2025,19,BRAZIL,BRA,1990-04-16,173.0,166.0,61.2,The Cannibal,29.0,0.0,5.0
+"Aspinall, Tom",sr:competitor:545279,11,male,pound_for_pound,2025,19,ENGLAND,ENG,1993-04-11,198.0,196.0,113.9,,15.0,0.0,3.0
+"Holloway, Max",sr:competitor:237652,12,male,pound_for_pound,2025,19,UNITED STATES,USA,1991-12-04,175.0,180.0,70.8,Blessed,26.0,0.0,8.0
+"O'Malley, Sean",sr:competitor:397240,13,male,pound_for_pound,2025,19,UNITED STATES,USA,1994-10-24,183.0,180.0,61.2,Suga,18.0,0.0,1.0
+"Oliveira, Charles",sr:competitor:542119,14,male,pound_for_pound,2025,19,BRAZIL,BRA,1989-10-17,188.0,178.0,70.8,Do Bronx,35.0,0.0,10.0
+"Tsarukyan, Arman",sr:competitor:567145,15,male,pound_for_pound,2025,19,GEORGIA,GEO,1996-10-11,184.0,170.0,70.8,Ahalkalakets,22.0,0.0,3.0
+"Pantoja, Alexandre",sr:competitor:312032,0,male,flyweight,2025,19,BRAZIL,BRA,1990-04-16,173.0,166.0,61.2,The Cannibal,29.0,0.0,5.0
+"Royval, Brandon",sr:competitor:715231,1,male,flyweight,2025,19,UNITED STATES,USA,1992-08-16,179.0,175.0,57.1,Raw Dawg,17.0,0.0,7.0
+"Moreno, Brandon",sr:competitor:288695,2,male,flyweight,2025,19,MEXICO,MEX,1993-12-07,178.0,170.0,57.1,The Assassin Baby,23.0,2.0,8.0
+"Albazi, Amir",sr:competitor:441656,3,male,flyweight,2025,19,IRAQ,IRQ,1993-10-27,173.0,165.0,57.2,The Prince,17.0,0.0,2.0
+"Kara-France, Kai",sr:competitor:511412,4,male,flyweight,2025,19,NEW ZEALAND,NZL,1993-03-26,175.0,163.0,56.7,Don't Blink,25.0,0.0,11.0
+"Taira, Tatsuro",sr:competitor:879899,5,male,flyweight,2025,19,JAPAN,JPN,2000-01-27,178.0,170.0,57.2,,16.0,0.0,1.0
+"Kape, Manel",sr:competitor:384992,6,male,flyweight,2025,19,ANGOLA,AGO,1993-11-14,173.0,165.0,56.9,StarBoy,21.0,0.0,7.0
+"Perez, Alex",sr:competitor:399179,7,male,flyweight,2025,19,UNITED STATES,USA,1992-03-21,166.0,168.0,57.2,,25.0,0.0,9.0
+"Almabayev, Asu",sr:competitor:1005683,8,male,flyweight,2025,19,,,1994-01-25,165.0,163.0,56.9,Zulfikar,21.0,0.0,3.0
+"Erceg, Steve",sr:competitor:909471,9,male,flyweight,2025,19,,,1995-07-27,174.0,173.0,56.9,Astroboy,12.0,0.0,4.0
+"Ulanbekov, Tagir",sr:competitor:723645,10,male,flyweight,2025,19,RUSSIAN FEDERATION,RUS,1991-07-08,178.0,170.0,56.5,,16.0,0.0,2.0
+"Elliott, Tim",sr:competitor:303538,11,male,flyweight,2025,19,UNITED STATES,USA,1986-12-24,168.0,170.0,61.7,,21.0,1.0,13.0
+"Silva, Bruno",sr:competitor:588493,12,male,flyweight,2025,19,BRAZIL,BRA,1990-03-16,168.0,163.0,57.2,Bulldog,14.0,2.0,6.0
+"Temirov, Ramazonbek",sr:competitor:1003149,13,male,flyweight,2025,19,,,1997-01-31,160.0,163.0,56.9,Temurlan,18.0,0.0,2.0
+"van, Joshua",sr:competitor:1000813,14,male,flyweight,2025,19,,,2001-10-10,165.0,165.0,56.9,The Fearless,13.0,0.0,2.0
+"Asakura, Kai",sr:competitor:401993,15,male,flyweight,2025,19,,,1993-10-31,175.0,172.0,56.7,,21.0,0.0,5.0
+"Dvalishvili, Merab",sr:competitor:399183,0,male,bantamweight,2025,19,GEORGIA,GEO,1991-01-10,173.0,168.0,60.8,The Machine,18.0,0.0,4.0
+"O'Malley, Sean",sr:competitor:397240,1,male,bantamweight,2025,19,UNITED STATES,USA,1994-10-24,183.0,180.0,61.2,Suga,18.0,0.0,1.0
+"Yan, Petr",sr:competitor:542169,2,male,bantamweight,2025,19,RUSSIAN FEDERATION,RUS,1993-02-11,170.0,169.0,61.2,No Mercy,17.0,0.0,5.0
+"Nurmagomedov, Umar",sr:competitor:497764,3,male,bantamweight,2025,19,RUSSIAN FEDERATION,RUS,1996-03-01,175.0,173.0,61.2,,18.0,0.0,1.0
+"Sandhagen, Cory",sr:competitor:464141,4,male,bantamweight,2025,19,UNITED STATES,USA,1992-04-20,178.0,180.0,61.5,Sandman,18.0,0.0,5.0
+"Song, Yadong",sr:competitor:449143,5,male,bantamweight,2025,19,CHINA,CHN,1997-12-02,170.0,173.0,61.7,Kung Fu Kid,22.0,1.0,8.0
+"Figueiredo, Deiveson",sr:competitor:340506,6,male,bantamweight,2025,19,BRAZIL,BRA,1987-12-18,173.0,165.0,61.2,Deus da Guerra,24.0,1.0,4.0
+"Vera, Marlon",sr:competitor:245495,7,male,bantamweight,2025,19,ECUADOR,ECU,1992-12-02,179.0,173.0,61.7,Chito,21.0,1.0,10.0
+"Font, Rob",sr:competitor:257361,8,male,bantamweight,2025,19,UNITED STATES,USA,1987-06-25,182.0,173.0,62.6,,22.0,0.0,8.0
+"Cejudo, Henry",sr:competitor:253385,9,male,bantamweight,2025,19,UNITED STATES,USA,1987-02-09,171.0,163.0,61.2,Triple C,16.0,0.0,5.0
+"Bautista, Mario",sr:competitor:542007,10,male,bantamweight,2025,19,UNITED STATES,USA,1993-07-01,175.0,175.0,61.5,,15.0,0.0,2.0
+"Aldo, Jose",sr:competitor:237616,11,male,bantamweight,2025,19,BRAZIL,BRA,1986-09-09,178.0,170.0,64.9,Junior,32.0,0.0,10.0
+"Phillips, Kyler",sr:competitor:511502,12,male,bantamweight,2025,19,UNITED STATES,USA,1995-06-12,183.0,173.0,61.2,The Matrix,12.0,0.0,3.0
+"McGhee, Marcus",sr:competitor:1009269,13,male,bantamweight,2025,19,UNITED STATES,USA,1990-05-07,175.0,173.0,61.5,The Maniac,10.0,0.0,1.0
+"Jackson, Montel",sr:competitor:449113,14,male,bantamweight,2025,19,UNITED STATES,USA,1992-04-24,192.0,178.0,61.7,Quik,15.0,0.0,2.0
+"Zahabi, Aiemann",sr:competitor:316729,15,male,bantamweight,2025,19,CANADA,CAN,1987-11-19,173.0,173.0,64.4,,13.0,0.0,2.0
+"Volkanovski, Alex",sr:competitor:290262,0,male,featherweight,2025,19,AUSTRALIA,AUS,1988-09-29,182.0,168.0,65.8,The Great,27.0,0.0,4.0
+"Holloway, Max",sr:competitor:237652,1,male,featherweight,2025,19,UNITED STATES,USA,1991-12-04,175.0,180.0,70.8,Blessed,26.0,0.0,8.0
+"Lopes, Diego",sr:competitor:830786,2,male,featherweight,2025,19,BRAZIL,BRA,1994-12-30,184.0,180.0,65.8,,26.0,0.0,7.0
+"Topuria, Ilia",sr:competitor:750503,3,male,featherweight,2025,19,GERMANY,DEU,1997-01-21,175.0,170.0,65.5,El Matador,16.0,0.0,0.0
+"Rodriguez, Yair",sr:competitor:253381,4,male,featherweight,2025,19,MEXICO,MEX,1992-10-06,180.0,180.0,66.2,El Pantera,17.0,0.0,5.0
+"Evloev, Movsar",sr:competitor:567139,4,male,featherweight,2025,19,RUSSIAN FEDERATION,RUS,1994-02-11,184.0,170.0,66.0,,19.0,0.0,0.0
+"Allen, Arnold",sr:competitor:245447,6,male,featherweight,2025,19,ENGLAND,ENG,1994-01-17,178.0,173.0,65.8,Almighty,20.0,0.0,3.0
+"Ortega, Brian",sr:competitor:237692,7,male,featherweight,2025,19,UNITED STATES,USA,1991-02-21,175.0,173.0,66.2,T-City,16.0,0.0,4.0
+"Murphy, Lerone",sr:competitor:625910,8,male,featherweight,2025,19,ENGLAND,ENG,1991-07-22,187.0,175.0,66.0,The Miracle,16.0,1.0,0.0
+"Sterling, Aljamain",sr:competitor:260623,9,male,featherweight,2025,19,UNITED STATES,USA,1989-07-31,180.0,171.0,77.5,Funk Master,24.0,0.0,5.0
+"Emmett, Josh",sr:competitor:256285,10,male,featherweight,2025,19,UNITED STATES,USA,1985-03-04,178.0,168.0,66.2,CC0 (C-C-OH),19.0,0.0,5.0
+"Silva, Jean",sr:competitor:1026715,11,male,featherweight,2025,19,BRAZIL,BRA,1996-12-13,175.0,170.0,66.2,Lord,16.0,0.0,2.0
+"Zalal, Youssef",sr:competitor:677163,12,male,featherweight,2025,19,UNITED STATES,USA,1996-09-04,183.0,178.0,66.0,The Moroccan Devil,17.0,1.0,5.0
+"Onama, David",sr:competitor:848913,13,male,featherweight,2025,19,,,1994-06-07,188.0,180.0,66.2,Silent Assassin,14.0,0.0,2.0
+"Ige, Dan",sr:competitor:539711,14,male,featherweight,2025,19,UNITED STATES,USA,1991-08-06,180.0,170.0,66.2,50K,19.0,0.0,9.0
+"Kattar, Calvin",sr:competitor:361988,15,male,featherweight,2025,19,UNITED STATES,USA,1988-03-26,183.0,180.0,66.0,The Boston Finisher,23.0,0.0,9.0
+"Makhachev, Islam",sr:competitor:251835,0,male,lightweight,2025,19,RUSSIAN FEDERATION,RUS,1991-09-27,179.0,178.0,70.3,,27.0,0.0,2.0
+"Tsarukyan, Arman",sr:competitor:567145,1,male,lightweight,2025,19,GEORGIA,GEO,1996-10-11,184.0,170.0,70.8,Ahalkalakets,22.0,0.0,3.0
+"Oliveira, Charles",sr:competitor:542119,2,male,lightweight,2025,19,BRAZIL,BRA,1989-10-17,188.0,178.0,70.8,Do Bronx,35.0,0.0,10.0
+"Gaethje, Justin",sr:competitor:351762,3,male,lightweight,2025,19,UNITED STATES,USA,1988-11-14,178.0,181.0,70.8,The Highlight,26.0,0.0,5.0
+"Holloway, Max",sr:competitor:237652,4,male,lightweight,2025,19,UNITED STATES,USA,1991-12-04,175.0,180.0,70.8,Blessed,26.0,0.0,8.0
+"Poirier, Dustin",sr:competitor:261799,5,male,lightweight,2025,19,UNITED STATES,USA,1989-01-19,185.0,175.0,70.3,The Diamond,30.0,0.0,9.0
+"Hooker, Daniel",sr:competitor:248591,6,male,lightweight,2025,19,NEW ZEALAND,NZL,1990-02-13,192.0,183.0,70.3,The Hangman,24.0,0.0,12.0
+"Gamrot, Mateusz",sr:competitor:386466,7,male,lightweight,2025,19,POLAND,POL,1990-12-11,179.0,177.0,70.8,Gamer,24.0,0.0,3.0
+"Pimblett, Paddy",sr:competitor:656567,8,male,lightweight,2025,19,ENGLAND,ENG,1995-01-03,185.0,178.0,70.8,The Baddy,23.0,0.0,3.0
+"Dariush, Beneil",sr:competitor:250863,9,male,lightweight,2025,19,"IRAN, ISLAMIC REPUBLIC OF",IRN,1989-06-05,183.0,178.0,70.8,,22.0,1.0,6.0
+"Moicano, Renato",sr:competitor:257367,10,male,lightweight,2025,19,BRAZIL,BRA,1989-05-21,183.0,181.0,70.8,Moicano,21.0,1.0,6.0
+"Fiziev, Rafael",sr:competitor:511494,11,male,lightweight,2025,19,KYRGYZSTAN,KGZ,1993-03-05,182.0,173.0,70.8,Ataman,12.0,0.0,4.0
+"Chandler, Michael",sr:competitor:266465,12,male,lightweight,2025,19,UNITED STATES,USA,1986-04-24,182.0,173.0,70.8,Iron,23.0,0.0,10.0
+"Saint-Denis, Benoit",sr:competitor:844376,13,male,lightweight,2025,19,FRANCE,FRA,1995-12-18,185.0,180.0,70.8,God of War,14.0,0.0,3.0
+"Dawson, Grant",sr:competitor:511478,14,male,lightweight,2025,19,UNITED STATES,USA,1994-02-20,183.0,178.0,70.3,KGD,23.0,1.0,2.0
+"Alvarez, Joel",sr:competitor:543493,15,male,lightweight,2025,19,SPAIN,ESP,1993-03-02,196.0,191.0,70.5,El Fenomeno,22.0,0.0,3.0
+"Muhammad, Belal",sr:competitor:267867,0,male,welterweight,2025,19,UNITED STATES,USA,1988-07-09,183.0,180.0,77.1,Remember The Name,24.0,0.0,4.0
+"Brady, Sean",sr:competitor:579813,1,male,welterweight,2025,19,,,1992-11-23,184.0,178.0,77.1,,18.0,0.0,1.0
+"Rakhmonov, Shavkat",sr:competitor:561032,2,male,welterweight,2025,19,KAZAKHSTAN,KAZ,1994-10-23,196.0,185.0,77.6,Nomad,19.0,0.0,0.0
+"Edwards, Leon",sr:competitor:256121,3,male,welterweight,2025,19,JAMAICA,JAM,1990-08-25,188.0,188.0,77.1,Rocky,22.0,0.0,5.0
+"Usman, Kamaru",sr:competitor:273539,4,male,welterweight,2025,19,NIGERIA,NGA,1987-05-11,193.0,183.0,83.7,Nigerian Nightmare,20.0,0.0,4.0
+"Della Maddalena, Jack",sr:competitor:830050,5,male,welterweight,2025,19,,,1996-09-10,185.0,180.0,77.1,,18.0,0.0,2.0
+"Machado Garry, Ian",sr:competitor:594908,6,male,welterweight,2025,19,IRELAND,IRL,1997-11-17,188.0,191.0,77.6,The Future,16.0,0.0,1.0
+"Buckley, Joaquin",sr:competitor:430935,7,male,welterweight,2025,19,UNITED STATES,USA,1994-04-27,193.0,178.0,77.1,New Mansa,21.0,0.0,6.0
+"Burns, Gilbert",sr:competitor:267851,8,male,welterweight,2025,19,BRAZIL,BRA,1986-07-20,180.0,178.0,77.6,Durinho,22.0,0.0,8.0
+"Covington, Colby",sr:competitor:265079,9,male,welterweight,2025,19,UNITED STATES,USA,1988-02-22,183.0,180.0,77.1,Chaos,17.0,0.0,5.0
+"Neal, Geoffrey",sr:competitor:413419,10,male,welterweight,2025,19,UNITED STATES,USA,1990-08-28,191.0,180.0,77.3,Handz of Steel,16.0,0.0,6.0
+"Thompson, Stephen",sr:competitor:265063,11,male,welterweight,2025,19,UNITED STATES,USA,1983-02-11,191.0,183.0,77.1,Wonderboy,17.0,1.0,8.0
+"Morales, Michael",sr:competitor:820072,12,male,welterweight,2025,19,,,1999-06-24,201.0,183.0,77.6,,17.0,0.0,0.0
+"Prates, Carlos",sr:competitor:1020027,13,male,welterweight,2025,19,BRAZIL,BRA,1993-08-17,198.0,185.0,77.6,The Nightmare,21.0,0.0,7.0
+"Luque, Vicente",sr:competitor:267863,14,male,welterweight,2025,19,UNITED STATES,USA,1991-11-27,193.0,180.0,77.1,The Silent Assassin,23.0,1.0,10.0
+"Page, Michael",sr:competitor:254237,15,male,welterweight,2025,19,ENGLAND,ENG,1987-04-07,201.0,191.0,84.1,Venom,23.0,0.0,3.0
+"Du Plessis, Dricus",sr:competitor:400461,0,male,middleweight,2025,19,,,1994-01-14,193.0,185.0,83.9,Stillknocks,23.0,0.0,2.0
+"Imavov, Nassourdine",sr:competitor:742869,1,male,middleweight,2025,19,RUSSIAN FEDERATION,RUS,1995-03-01,191.0,191.0,83.9,The Sniper,16.0,0.0,4.0
+"Strickland, Sean",sr:competitor:244108,2,male,middleweight,2025,19,UNITED STATES,USA,1991-02-27,193.0,185.0,83.9,,29.0,0.0,7.0
+"Chimaev, Khamzat",sr:competitor:728833,3,male,middleweight,2025,19,RUSSIAN FEDERATION,RUS,1994-05-01,191.0,188.0,84.1,Borz,14.0,0.0,0.0
+"Adesanya, Israel",sr:competitor:410485,4,male,middleweight,2025,19,NIGERIA,NGA,1989-07-22,203.0,193.0,83.9,The Last Stylebender,24.0,0.0,5.0
+"Whittaker, Robert",sr:competitor:253377,5,male,middleweight,2025,19,NEW ZEALAND,NZL,1990-12-20,187.0,182.0,84.4,The Reaper,27.0,0.0,8.0
+"Borralho, Caio",sr:competitor:820060,6,male,middleweight,2025,19,BRAZIL,BRA,1993-01-16,191.0,185.0,84.4,The Natural,17.0,0.0,1.0
+"Cannonier, Jared",sr:competitor:250133,7,male,middleweight,2025,19,UNITED STATES,USA,1984-03-16,197.0,180.0,83.5,Tha Killa Gorilla,18.0,0.0,8.0
+"Dolidze, Roman",sr:competitor:577053,8,male,middleweight,2025,19,GEORGIA,GEO,1988-07-15,193.0,188.0,84.4,,15.0,0.0,3.0
+"Hernandez, Anthony",sr:competitor:449127,9,male,middleweight,2025,19,,,1993-10-18,191.0,183.0,84.1,Fluffy,14.0,0.0,2.0
+"Vettori, Marvin",sr:competitor:278713,10,male,middleweight,2025,19,ITALY,ITA,1993-09-20,188.0,183.0,84.4,The Italian Dream,19.0,1.0,8.0
+"Allen, Brendan",sr:competitor:599908,11,male,middleweight,2025,19,UNITED STATES,USA,1995-12-28,191.0,188.0,84.4,All In,24.0,0.0,7.0
+"Costa, Paulo Henrique",sr:competitor:320689,12,male,middleweight,2025,19,BRAZIL,BRA,1991-04-21,183.0,185.0,83.9,The Eraser,14.0,0.0,4.0
+"de Ridder, Reinier",sr:competitor:678801,13,male,middleweight,2025,19,,,,201.0,193.0,84.1,RdR,20.0,0.0,2.0
+"Kopylov, Roman",sr:competitor:642158,14,male,middleweight,2025,19,,,1991-05-04,191.0,183.0,84.1,,14.0,0.0,3.0
+"Magomedov, Abusupiyan",sr:competitor:457841,15,male,middleweight,2025,19,RUSSIAN FEDERATION,RUS,1990-09-02,198.0,188.0,84.1,,28.0,1.0,6.0
+"Ankalaev, Magomed",sr:competitor:419867,0,male,light_heavyweight,2025,19,RUSSIAN FEDERATION,RUS,1992-06-02,191.0,191.0,93.0,,21.0,1.0,1.0
+"Pereira, Alex",sr:competitor:837536,1,male,light_heavyweight,2025,19,BRAZIL,BRA,1987-07-07,203.0,194.0,93.0,Poatan,12.0,0.0,3.0
+"Prochazka, Jiri",sr:competitor:251853,2,male,light_heavyweight,2025,19,CZECH REPUBLIC,CZE,1992-10-14,203.0,191.0,92.8,BJP,30.0,1.0,5.0
+"Ulberg, Carlos",sr:competitor:753947,3,male,light_heavyweight,2025,19,NEW ZEALAND,NZL,1990-11-17,196.0,193.0,93.0,Black Jag,12.0,0.0,1.0
+"Hill, Jamahal",sr:competitor:608564,4,male,light_heavyweight,2025,19,UNITED STATES,USA,1991-05-19,201.0,193.0,93.0,Sweet Dreams,12.0,0.0,3.0
+"Blachowicz, Jan",sr:competitor:250143,5,male,light_heavyweight,2025,19,POLAND,POL,1983-02-24,198.0,188.0,93.0,,29.0,1.0,11.0
+"Rakic, Aleksandar",sr:competitor:372544,6,male,light_heavyweight,2025,19,AUSTRIA,AUT,1992-02-06,198.0,194.0,93.4,Rocket,14.0,0.0,5.0
+"Rountree, Khalil",sr:competitor:301658,7,male,light_heavyweight,2025,19,UNITED STATES,USA,1990-02-26,194.0,185.0,93.2,,14.0,0.0,6.0
+"Reyes, Dominick",sr:competitor:347406,8,male,light_heavyweight,2025,19,,,1989-12-26,196.0,193.0,93.4,The Devastator,15.0,0.0,4.0
+"Oezdemir, Volkan",sr:competitor:542115,9,male,light_heavyweight,2025,19,SWITZERLAND,CHE,1989-09-19,191.0,188.0,93.4,No Time,20.0,0.0,8.0
+"Krylov, Nikita",sr:competitor:256105,10,male,light_heavyweight,2025,19,UKRAINE,UKR,1992-03-07,197.0,191.0,93.4,The Miner,30.0,0.0,10.0
+"Walker, Johnny",sr:competitor:511852,11,male,light_heavyweight,2025,19,BRAZIL,BRA,1992-03-30,208.0,198.0,93.4,,21.0,0.0,9.0
+"Murzakanov, Azamat",sr:competitor:346976,12,male,light_heavyweight,2025,19,RUSSIAN FEDERATION,RUS,1989-04-12,182.0,179.0,93.0,Professional,14.0,0.0,0.0
+"Mingyang, Zhang",sr:competitor:913003,13,male,light_heavyweight,2025,19,,,1998-08-16,191.0,189.0,93.4,Mountain Tiger,19.0,0.0,6.0
+"Guskov, Bogdan",sr:competitor:1049263,14,male,light_heavyweight,2025,19,,,1992-09-12,193.0,190.0,92.8,Czarevitch,17.0,0.0,3.0
+"Menifield, Alonzo",sr:competitor:449099,15,male,light_heavyweight,2025,19,UNITED STATES,USA,1987-10-18,193.0,183.0,93.0,Atomic,16.0,1.0,5.0
+"Jones, Jon",sr:competitor:253371,0,male,heavyweight,2025,19,UNITED STATES,USA,1987-07-19,215.0,194.0,112.5,Bones,28.0,0.0,1.0
+"Aspinall, Tom",sr:competitor:545279,1,male,heavyweight,2025,19,ENGLAND,ENG,1993-04-11,198.0,196.0,113.9,,15.0,0.0,3.0
+"Gane, Ciryl",sr:competitor:595034,2,male,heavyweight,2025,19,FRANCE,FRA,1990-05-08,206.0,193.0,113.4,Bon Gamin,12.0,0.0,2.0
+"Volkov, Alexander",sr:competitor:542161,3,male,heavyweight,2025,19,RUSSIAN FEDERATION,RUS,1988-10-24,203.0,201.0,117.0,Drago,38.0,0.0,11.0
+"Pavlovich, Sergei",sr:competitor:515358,4,male,heavyweight,2025,19,RUSSIAN FEDERATION,RUS,1992-05-13,213.0,191.0,112.9,,19.0,0.0,3.0
+"Blaydes, Curtis",sr:competitor:542009,5,male,heavyweight,2025,19,UNITED STATES,USA,1991-02-18,203.0,193.0,118.8,Razor,17.0,0.0,5.0
+"Almeida, Jailton",sr:competitor:820044,6,male,heavyweight,2025,19,BRAZIL,BRA,1991-06-26,201.0,191.0,109.3,Malhadinho,22.0,0.0,2.0
+"Spivak, Sergey",sr:competitor:567207,7,male,heavyweight,2025,19,,,1995-01-24,198.0,190.0,108.0,Polar Bear,17.0,0.0,5.0
+"Tybura, Marcin",sr:competitor:250173,8,male,heavyweight,2025,19,POLAND,POL,1985-11-09,198.0,191.0,113.3,Tybur,27.0,0.0,9.0
+"Lewis, Derrick",sr:competitor:542099,9,male,heavyweight,2025,19,UNITED STATES,USA,1985-02-07,201.0,191.0,119.7,The Black Beast,28.0,0.0,12.0
+"Tuivasa, Tai",sr:competitor:393034,10,male,heavyweight,2025,19,AUSTRALIA,AUS,1993-03-16,191.0,188.0,120.2,Bam Bam,14.0,0.0,8.0
+"Cortes-Acosta, Waldo",sr:competitor:855381,11,male,heavyweight,2025,19,,,1991-10-03,198.0,193.0,118.6,Salsa Boy,13.0,0.0,1.0
+"Gaziev, Shamil",sr:competitor:1026697,12,male,heavyweight,2025,19,,,1990-02-10,199.0,193.0,117.9,,14.0,0.0,1.0
+"Parkin, Michael",sr:competitor:928581,13,male,heavyweight,2025,19,,,1995-10-02,201.0,193.0,118.0,,10.0,0.0,1.0
+"Teixeira, Tallison",sr:competitor:1185501,14,male,heavyweight,2025,19,,,1999-12-07,211.0,201.0,117.0,Xicao,8.0,0.0,0.0
+"Buday, Martin",sr:competitor:570405,15,male,heavyweight,2025,19,SLOVAKIA,SVK,1991-11-11,196.0,193.0,120.7,Badys,15.0,0.0,2.0
+"Zhang, Weili",sr:competitor:542175,0,female,womens_strawweight,2025,19,CHINA,CHN,1989-08-13,160.0,163.0,52.2,Magnum,26.0,0.0,3.0
+"Jandiroba, Virna",sr:competitor:399229,1,female,womens_strawweight,2025,19,BRAZIL,BRA,1988-05-30,163.0,160.0,52.6,Carcara,22.0,0.0,3.0
+"Suarez, Tatiana",sr:competitor:542155,2,female,womens_strawweight,2025,19,UNITED STATES,USA,1990-12-19,168.0,165.0,52.4,,11.0,0.0,1.0
+"Yan, Xiaonan",sr:competitor:395000,3,female,womens_strawweight,2025,19,CHINA,CHN,1989-06-16,160.0,166.0,52.6,Nine,19.0,0.0,5.0
+"Lemos, Amanda",sr:competitor:355570,4,female,womens_strawweight,2025,19,BRAZIL,BRA,1987-05-22,165.0,163.0,52.6,Amandinha,15.0,1.0,4.0
+"Andrade, Jessica",sr:competitor:261805,5,female,womens_strawweight,2025,19,BRAZIL,BRA,1991-09-25,157.0,156.0,57.2,Bate Estaca,26.0,0.0,14.0
+"Dern, Mackenzie",sr:competitor:399233,6,female,womens_strawweight,2025,19,UNITED STATES,USA,1993-03-24,160.0,163.0,52.6,,15.0,0.0,5.0
+"Ribas, Amanda",sr:competitor:510950,7,female,womens_strawweight,2025,19,BRAZIL,BRA,1993-08-26,168.0,160.0,52.6,,12.0,0.0,6.0
+"Lucindo, Jasmin",sr:competitor:924103,8,female,womens_strawweight,2025,19,BRAZIL,BRA,2002-01-08,168.0,160.0,52.4,,17.0,0.0,6.0
+"Robertson, Gillian",sr:competitor:441630,9,female,womens_strawweight,2025,19,CANADA,CAN,1995-05-17,160.0,165.0,52.4,The Savage,16.0,0.0,8.0
+"Ricci, Tabatha",sr:competitor:800738,10,female,womens_strawweight,2025,19,BRAZIL,BRA,1995-02-21,157.0,155.0,52.2,Baby Shark,11.0,0.0,3.0
+"Godinez, Lupita",sr:competitor:786758,11,female,womens_strawweight,2025,19,MEXICO,MEX,1993-09-06,155.0,157.0,52.4,Loopy,13.0,0.0,5.0
+"Hill, Angela",sr:competitor:542071,12,female,womens_strawweight,2025,19,UNITED STATES,USA,1985-01-12,164.0,160.0,52.4,Overkill,18.0,0.0,14.0
+"Pennington, Tecia",sr:competitor:237732,13,female,womens_strawweight,2025,19,UNITED STATES,USA,1989-08-16,154.0,155.0,52.2,Tiny Tornado,14.0,0.0,7.0
+"Pinheiro, Luana",sr:competitor:756397,14,female,womens_strawweight,2025,19,BRAZIL,BRA,1993-11-18,157.0,163.0,52.6,,11.0,0.0,4.0
+"Lookboonmee, Loma",sr:competitor:590895,15,female,womens_strawweight,2025,19,,,1996-01-18,156.0,155.0,52.2,,10.0,0.0,3.0
+"Shevchenko, Valentina",sr:competitor:246053,0,female,womens_flyweight,2025,19,,,,,,,,,,
+"Grasso, Alexa",sr:competitor:542061,1,female,womens_flyweight,2025,19,MEXICO,MEX,1993-08-09,168.0,165.0,57.2,,16.0,1.0,5.0
+"Fiorot, Manon",sr:competitor:598952,2,female,womens_flyweight,2025,19,FRANCE,FRA,1990-02-17,168.0,169.0,56.7,The Beast,12.0,0.0,2.0
+"Blanchfield, Erin",sr:competitor:676033,3,female,womens_flyweight,2025,19,,,1999-05-04,173.0,163.0,56.8,Cold Blooded,13.0,0.0,2.0
+"Barber, Maycee",sr:competitor:462103,4,female,womens_flyweight,2025,19,UNITED STATES,USA,1998-05-18,165.0,165.0,56.7,The Future,14.0,0.0,2.0
+"Silva, Natalia",sr:competitor:890667,5,female,womens_flyweight,2025,19,BRAZIL,BRA,1997-02-03,165.0,163.0,56.9,,19.0,1.0,5.0
+"Namajunas, Rose",sr:competitor:237730,6,female,womens_flyweight,2025,19,UNITED STATES,USA,1992-06-29,165.0,165.0,56.6,Thug,13.0,0.0,7.0
+"Andrade, Jessica",sr:competitor:261805,7,female,womens_flyweight,2025,19,BRAZIL,BRA,1991-09-25,157.0,156.0,57.2,Bate Estaca,26.0,0.0,14.0
+"Araujo, Viviane",sr:competitor:579365,8,female,womens_flyweight,2025,19,BRAZIL,BRA,1986-11-21,173.0,163.0,57.2,Vivi,13.0,0.0,6.0
+"Jasudavicius, Jasmine",sr:competitor:820046,9,female,womens_flyweight,2025,19,CANADA,CAN,1989-03-01,173.0,170.0,56.3,,14.0,0.0,3.0
+"Cortez, Tracy",sr:competitor:372608,10,female,womens_flyweight,2025,19,UNITED STATES,USA,1993-12-10,166.0,165.0,57.2,,11.0,0.0,2.0
+"Silva, Karine",sr:competitor:847512,11,female,womens_flyweight,2025,19,BRAZIL,BRA,1993-12-02,170.0,165.0,56.9,Killer,18.0,0.0,5.0
+"Maverick, Miranda",sr:competitor:324143,12,female,womens_flyweight,2025,19,,,1997-07-01,166.0,161.0,56.9,Fear The,17.0,0.0,5.0
+"O'Neill, Casey",sr:competitor:775996,13,female,womens_flyweight,2025,19,,,1997-10-07,175.0,168.0,56.9,King,10.0,0.0,2.0
+"Da Silva, Ariane",sr:competitor:542103,14,female,womens_flyweight,2025,19,BRAZIL,BRA,1994-01-26,170.0,168.0,57.2,The Queen,17.0,0.0,10.0
+"Aldrich, Jj",sr:competitor:305006,15,female,womens_flyweight,2025,19,UNITED STATES,USA,1992-09-29,171.0,165.0,56.8,,14.0,0.0,7.0
+"Peña, Julianna",sr:competitor:268067,0,female,womens_bantamweight,2025,19,UNITED STATES,USA,1989-08-19,175.0,168.0,61.2,The Venezuelan Vixen,13.0,0.0,5.0
+"Pennington, Raquel",sr:competitor:542125,1,female,womens_bantamweight,2025,19,UNITED STATES,USA,1988-09-05,171.0,170.0,61.1,Rocky,16.0,0.0,10.0
+"Harrison, Kayla",sr:competitor:476142,2,female,womens_bantamweight,2025,19,UNITED STATES,USA,1990-07-02,168.0,173.0,61.7,,18.0,0.0,1.0
+"Vieira, Ketlen",sr:competitor:288703,3,female,womens_bantamweight,2025,19,BRAZIL,BRA,1991-08-26,173.0,173.0,61.2,Fenomeno,14.0,0.0,4.0
+"Dumont Viana, Norma",sr:competitor:669385,4,female,womens_bantamweight,2025,19,BRAZIL,BRA,1990-10-01,170.0,169.0,61.7,The Immortal,12.0,0.0,2.0
+"Chiasson, Macy",sr:competitor:542017,5,female,womens_bantamweight,2025,19,UNITED STATES,USA,1991-07-27,183.0,180.0,61.5,,10.0,0.0,3.0
+"Aldana, Irene",sr:competitor:541997,6,female,womens_bantamweight,2025,19,MEXICO,MEX,1988-03-26,174.0,175.0,61.7,,15.0,0.0,8.0
+"Perez, Ailin",sr:competitor:905733,7,female,womens_bantamweight,2025,19,ARGENTINA,ARG,1994-10-05,168.0,165.0,61.2,Fiona,12.0,0.0,2.0
+"Bueno Silva, Mayra",sr:competitor:501754,8,female,womens_bantamweight,2025,19,BRAZIL,BRA,1991-08-22,169.0,168.0,57.2,Sheetara,10.0,1.0,5.0
+"Santos, Yana",sr:competitor:542083,9,female,womens_bantamweight,2025,19,RUSSIAN FEDERATION,RUS,1989-11-11,174.0,173.0,61.7,,15.0,0.0,8.0
+"Rosa, Karol",sr:competitor:618456,10,female,womens_bantamweight,2025,19,BRAZIL,BRA,1994-12-30,171.0,165.0,61.5,,18.0,0.0,7.0
+"Cavalcanti, Jacqueline",sr:competitor:1049265,11,female,womens_bantamweight,2025,19,BRAZIL,BRA,1997-08-29,178.0,175.0,61.2,,9.0,0.0,1.0
+"Cornolle, Nora",sr:competitor:1027333,12,female,womens_bantamweight,2025,19,,,1989-06-12,170.0,169.0,62.6,,9.0,0.0,2.0
+"Tate, Miesha",sr:competitor:246049,13,female,womens_bantamweight,2025,19,UNITED STATES,USA,1986-08-18,165.0,168.0,61.5,Cupcake,20.0,0.0,10.0
+"Edwards, Joselyne",sr:competitor:768194,14,female,womens_bantamweight,2025,19,PANAMA,PAN,1995-09-29,178.0,173.0,61.7,La Pantera,15.0,0.0,6.0
+"Chandler, Chelsea",sr:competitor:424927,15,female,womens_bantamweight,2025,19,,,1990-11-23,173.0,174.0,60.8,,6.0,0.0,3.0
