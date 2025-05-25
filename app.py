@@ -1,13 +1,14 @@
 import streamlit as st
-from scripts.fighters import fighters_options
-from scripts.fighters import get_fighter_stats
+from scripts.fighters import get_fighter_options, get_fighter_stats, get_fight_prediction, get_weight_classes
 
 st.html("<h1 style='text-align: center; font-size: 40px; border-bottom: solid 1px lightgrey;'> UFC Predictions</h1>")
 
 st.html("<h3 style='text-align: center; font-size: 22px; '> Please select two fighters from the drop down to compare the performance and predict the winner</h3>")
 
+weight_class = st.selectbox('Select Weight Class', get_weight_classes())
 
 col1, col2 = st.columns(2)
+fighters_options = get_fighter_options(weight_class)
 fighters = list(fighters_options.keys())
 
 with col1:
@@ -50,18 +51,9 @@ with col2:
     container2.write('TD Def. : ' + fighter2_stats['TD Def.'])
     container2.write('Sub. Avg. : ' + str(fighter2_stats['Sub. Avg.']))
 
-col1b, col2b, col3b = st.columns([1,2,1])
+if st.button("Predict", use_container_width=True, icon=":material/sports_mma:", type='primary'):
+    result = get_fight_prediction(fighters_options[fighter1], fighters_options[fighter2], weight_class)
+    st.html("<h2 style='text-align: center; font-size: 40px; border-bottom: solid 1px lightgrey;'> Winner</h2>")
+    st.html("<h3 style='text-align: center; font-size: 22px; width: 100%; '> The winner between the two selected fighters will be: </h3>")
+    st.html("<h2 style='text-align: center; font-size: 40px;'>"+result+"</h2>")
 
-with col2b:
-    if st.button("Predict", use_container_width=True, icon=":material/sports_mma:", type='primary'):
-        st.write('Predicted')
-
-st.html("<h2 style='text-align: center; font-size: 40px; border-bottom: solid 1px lightgrey;'> Winner</h2>")
-
-st.html("<h3 style='text-align: center; font-size: 22px; '> The winner between the two selected fighters will be: </h3>")
-
-col1w, col2w, col3w = st.columns([1,2,1])
-
-with col2w:
-    containerw = st.container(border=True)
-    containerw.write('Winner')
