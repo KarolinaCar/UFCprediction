@@ -47,7 +47,7 @@ def get_fighter_info(figtherId):
     return means
 
 def get_fight_prediction(fighter1Id, fighter2Id, weight_class):
-    model = joblib.load('model.pkl')
+    model = joblib.load('./model.pkl')
     fighter1_info = get_fighter_info(fighter1Id)
     fighter2_info = get_fighter_info(fighter2Id)
     fight_stats = {
