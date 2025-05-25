@@ -1,6 +1,5 @@
 import pandas as pd
 import joblib
-import numpy as np
 
 fighters_df = pd.read_csv('./csv/all_fighters.csv')
 all_fights_ufc = pd.read_csv('./csv/df_all_fights.csv')
