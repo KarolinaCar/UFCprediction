@@ -1,9 +1,13 @@
 import pandas as pd
 import joblib
 import numpy as np
+import os
 
 fighters_df = pd.read_csv('./csv/all_fighters.csv')
 all_fights_ufc = pd.read_csv('./csv/df_all_fights.csv')
+current_directory = os.path.dirname(__file__)
+root_directory = os.path.abspath(os.path.join(current_directory, '..'))
+model_path = os.path.join(root_directory, 'model.pkl')
 
 def get_weight_classes():
     classes = all_fights_ufc['weight_class'].unique()
@@ -47,7 +51,7 @@ def get_fighter_info(figtherId):
     return means
 
 def get_fight_prediction(fighter1Id, fighter2Id, weight_class):
-    model = joblib.load('./model.pkl')
+    model = joblib.load(model_path)
     fighter1_info = get_fighter_info(fighter1Id)
     fighter2_info = get_fighter_info(fighter2Id)
     fight_stats = {
